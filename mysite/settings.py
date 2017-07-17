@@ -38,7 +38,6 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'blog',
-    'google_analytics',
 ]
 
 MIDDLEWARE_CLASSES = [
